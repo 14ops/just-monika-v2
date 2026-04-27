@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/python"
+		},
+		{
+			"path": "../../Downloads/pagerank-20250927T183750Z-1-001/pagerank"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}

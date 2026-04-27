@@ -1,0 +1,14 @@
+# Claude Code
+.claude/
+
+# SKiDL artifacts
+skidl_REPL.erc
+skidl_REPL.log
+
+# KiCad artifacts
+*.bak
+fp-info-cache
+*-backups/
+
+# Stale nested clone
+just-monika/

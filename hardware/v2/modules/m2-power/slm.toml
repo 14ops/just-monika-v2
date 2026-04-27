@@ -1,0 +1,5 @@
+name = "m2-power"
+version = "0.1.0"
+[dependencies]
+jsl = { git = "JITx-Inc/jsl", version = "0.10.11" }
+open-components-database = { git = "JITx-Inc/open-components-database", version = "4.0.0" }
